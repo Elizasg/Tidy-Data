@@ -44,7 +44,7 @@ The signals correspond to:
 * fBodyGyroMag
 * fBodyGyroJerkMag
 
-
+Explanation 
 
 * prefix 't' to denote time domain signals
 * prefix  'f' to indicate frequency domain signals
