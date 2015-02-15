@@ -45,6 +45,7 @@ The signals correspond to:
 * fBodyGyroJerkMag
 
 
+
 * prefix 't' to denote time domain signals
 * prefix  'f' to indicate frequency domain signals
 * accelerometer and gyroscope 3-axial raw signals: tAcc-XYZ and tGyro-XYZ
